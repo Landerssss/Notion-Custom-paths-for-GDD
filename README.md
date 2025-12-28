@@ -16,8 +16,8 @@ As a developer (or just a tidy person), installing software into the default dee
 
 ---
 
-## 🚀 Method 1: The CMD Argument (Recommended)
-## 方法一：命令行参数法（推荐）
+## 🚀 Method : The CMD Argument
+## 方法：命令行参数法
 
 This method uses the standard NSIS installer argument to force a destination path.
 利用安装程序的标准参数强制指定解压路径。
